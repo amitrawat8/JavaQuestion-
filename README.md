@@ -1,6 +1,6 @@
 # JavaQuestion-
-
-# Maximum Score After Splitting a String
+## MaximumScoreAfterSplittingaString.java
+#### Maximum Score After Splitting a String
  Input: s = "011101"
 Output: 5 
 Explanation: 
