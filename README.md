@@ -4,8 +4,8 @@
  Input: s = "011101"
 Output: 5 
 Explanation: 
-All possible ways of splitting s into two non-empty substrings are:
-left = "0" and right = "11101", score = 1 + 4 = 5 
+All possible ways of splitting s into two non-empty substrings are:\n
+left = "0" and right = "11101", score = 1 + 4 = 5 \n
 left = "01" and right = "1101", score = 1 + 3 = 4 
 left = "011" and right = "101", score = 1 + 2 = 3 
 left = "0111" and right = "01", score = 1 + 1 = 2 
